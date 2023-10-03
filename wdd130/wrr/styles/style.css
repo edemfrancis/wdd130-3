@@ -83,3 +83,6 @@ footer p {
 footer p a:hover {
   text-decoration: underline;
 }
+a:link {
+  text-decoration-line: none;
+}
